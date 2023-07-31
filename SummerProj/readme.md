@@ -1,1 +1,2 @@
-
+- 대회 사이트: https://dacon.io/competitions/official/236094/overview/description
+- 추가 자료(Notion): https://chill-fisherman-e29.notion.site/SSL-5117741411324ffda82ccfbaa3d8e328?pvs=4
